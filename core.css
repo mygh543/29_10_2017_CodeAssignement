@@ -37,3 +37,6 @@ li a:hover {
 li:last-child {
     border-right: none;
 }
+img {
+    width:100%;
+}
